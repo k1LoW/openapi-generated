@@ -1,0 +1,4 @@
+package: server
+generate:
+  types: true
+  server: true
